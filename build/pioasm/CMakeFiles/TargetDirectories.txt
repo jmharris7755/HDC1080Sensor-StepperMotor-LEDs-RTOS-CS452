@@ -1,0 +1,3 @@
+/home/justin/pico/Asssign 10/build/pioasm/CMakeFiles/rebuild_cache.dir
+/home/justin/pico/Asssign 10/build/pioasm/CMakeFiles/edit_cache.dir
+/home/justin/pico/Asssign 10/build/pioasm/CMakeFiles/pioasm.dir

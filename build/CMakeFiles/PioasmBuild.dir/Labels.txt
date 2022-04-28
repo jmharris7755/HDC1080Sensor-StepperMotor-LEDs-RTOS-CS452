@@ -1,0 +1,13 @@
+# Target labels
+ PioasmBuild
+# Source files and their labels
+/home/justin/pico/Asssign 10/build/CMakeFiles/PioasmBuild
+/home/justin/pico/Asssign 10/build/CMakeFiles/PioasmBuild.rule
+/home/justin/pico/Asssign 10/build/CMakeFiles/PioasmBuild-complete.rule
+/home/justin/pico/Asssign 10/build/pioasm/src/PioasmBuild-stamp/PioasmBuild-install.rule
+/home/justin/pico/Asssign 10/build/pioasm/src/PioasmBuild-stamp/PioasmBuild-mkdir.rule
+/home/justin/pico/Asssign 10/build/pioasm/src/PioasmBuild-stamp/PioasmBuild-download.rule
+/home/justin/pico/Asssign 10/build/pioasm/src/PioasmBuild-stamp/PioasmBuild-update.rule
+/home/justin/pico/Asssign 10/build/pioasm/src/PioasmBuild-stamp/PioasmBuild-patch.rule
+/home/justin/pico/Asssign 10/build/pioasm/src/PioasmBuild-stamp/PioasmBuild-configure.rule
+/home/justin/pico/Asssign 10/build/pioasm/src/PioasmBuild-stamp/PioasmBuild-build.rule
